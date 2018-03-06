@@ -1,1 +1,2 @@
-# summer-institute-2018
+# Computational Theme - Summer Institute 2018
+
